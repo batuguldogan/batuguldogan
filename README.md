@@ -1,4 +1,4 @@
-```bash
++ ```console```bash
 $ whoami
 batu  # cybersecurity student, originally from Turkey, now in Warsaw
 
